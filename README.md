@@ -2,7 +2,7 @@
 ĐỒ ÁN MÔN HỌC: CHUYÊN ĐỀ ASP.NET
 Dự Án [Tên Dự Án]
 
-Mô tả
+Mô tả 
 
 Đây là dự án [tên dự án hoặc mô tả ngắn gọn, ví dụ: "Ứng dụng quản lý công việc đơn giản được phát triển cho môn học XYZ"]. Dự án nhằm mục đích [mục tiêu chính của dự án, ví dụ: "giúp người dùng tổ chức công việc cá nhân hiệu quả"].
 
