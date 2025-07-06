@@ -1,5 +1,22 @@
 # -ASPNET-VX23TTK10-tranthiennhan-NHAN
-ĐỒ ÁN MÔN HỌC: CHUYÊN ĐỀ ASP.NET
+ĐỒ ÁN MÔN HỌC: CHUYÊN ĐỀ ASP.NET - XÂY DỰNG WEBSITE BÁN LAPTOP
+## Giảng viên hướng dẫn ##
+Đoàn Phước Miền
+email:antonio86doan@gmail.com
+## Sinh viên thực hiện ##
+Họ và tên: Trần Thiện Nhân
+MSSV: 470123052
+Email: nhantt200685@sv-onuni.edu.vn
+SĐT: 0915998835
+BÁO CÁO TIẾN ĐỘ
+Tuần 1: Tìm hiểu tài liệu liên quan đến ASP.NET.MVC,các ngôn ngữ html,css,javascript
+
+
+
+
+
+
+
 Dự Án [Tên Dự Án]
 
 Mô tả 
